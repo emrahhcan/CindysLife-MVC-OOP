@@ -8,6 +8,8 @@
 * Download the MAMP, XAMP or WAMP depends on your machine.
 * There are several steps before you start these are;
 * * Change the config.php file based on yourself. It must look like given below.
+
+
       <?php
           define('DB_HOST', 'localhost'); // Localhost
           define('DB_USER', ''); // Your phpMyAdmin Username
@@ -19,6 +21,8 @@
           define('URLROOT', 'http://localhost:8888/cindyslife'); // Mac uses 8888 as a PORT, You need to change based on your PORT.
 
           define('SITENAME', "Cindy's Life"); // Website name
+          
+          
 * * After all;
 * * * Compress the blog.sql file under the SQL folder
 * * * Open localhost:<port (if you are using)>/phpMyAdmin, then click import button, and import the compressed SQL commands
