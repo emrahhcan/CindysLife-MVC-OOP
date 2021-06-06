@@ -1,10 +1,13 @@
 # Cindy's Life / MVC - OOP
+* OOP Based MVC Implementation for Cindy's Life blog page.
+* It's been created using PDO connection.
+* This one has not deployed yet.
 
-OOP Based MVC Implementation for Cindy's Life blog page.
+# How to Use on Local Machine
 
-It's been created using PDO connection.
 
-NOTES:
+
+# NOTES
 
   * This is not the main blog web application because blog is for a real client who is my friend, so this my first project based OOP experience which means only for fun, and real project is using MySQLi connection.
 
