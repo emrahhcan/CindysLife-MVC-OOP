@@ -8,17 +8,17 @@
 * Download the MAMP, XAMP or WAMP depends on your machine.
 * There are several steps before you start these are;
 * * Change the config.php file based on yourself. It must look like given below.
-* * * <?php
-          define('DB_HOST', 'localhost');
-          define('DB_USER', '');
-          define('DB_PASS', '');
-          define('DB_NAME', 'admin');
+          <?php
+                    define('DB_HOST', 'localhost');
+                    define('DB_USER', '');
+                    define('DB_PASS', '');
+                    define('DB_NAME', 'admin');
 
-          define('APPROOT', dirname(dirname(__FILE__)));
+                    define('APPROOT', dirname(dirname(__FILE__)));
 
-          define('URLROOT', 'http://localhost:8888/cindyslife');
+                    define('URLROOT', 'http://localhost:8888/cindyslife');
 
-          define('SITENAME', "Cindy's Life");
+                    define('SITENAME', "Cindy's Life");
 
 
 # Notes
