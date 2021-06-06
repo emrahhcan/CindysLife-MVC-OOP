@@ -7,7 +7,7 @@
 * Clone the repository, or download the zip file.
 * Download the MAMP, XAMP or WAMP depends on your machine.
 * There are several steps before you start these are;
-* * Change the config.php file based on yourself. It must look like given below.
+* * Change the config.php file based on yourself. It must look like given below (Do not forget to open php tag before the code below).
 
           define('DB_HOST', 'localhost'); // Localhost
           define('DB_USER', ''); // Your phpMyAdmin Username
