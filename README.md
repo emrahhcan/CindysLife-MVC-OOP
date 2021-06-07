@@ -2,7 +2,7 @@
 * OOP Based MVC Implementation for Cindy's Life blog page.
 * It's been created using PDO connection.
 * This project will not been deployed.
-* All password are hashed using PHP password hashing algorithm.
+* All passwords are hashed using PHP password hashing algorithm.
 
 # How to Use on Local Machine
 * Clone the repository, or download the zip file.
