@@ -29,4 +29,5 @@
 
 # Notes
 
-  * This is not the main blog web application because blog is for a real client who is my friend, so this my first project based OOP experience using PHP which means this project is only for fun, and real project is using MySQLi connection.
+  * This is not the main blog web application because blog is for a real client who is my friend, so this my first project based OOP experience using PHP which means this project is only for fun, and real project is using MySQLi connection
+  * Furthermore, this project is created on template of Traversary Media's Udemy course
